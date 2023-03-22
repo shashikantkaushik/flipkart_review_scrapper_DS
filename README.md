@@ -9,7 +9,7 @@ To use this app, simply clone the repository, download MongoDb and Flask if alre
 FlaskApp.py is used for running it on local server and having MongoDB as a database to remove the overhead of scrapping same Product multiple times.
 
 Requirement.txt will help you to import the correct version of libraries used in this project.
-howtorun file is added for running it on Heroku Platform. Feel Free to Contribute. For any queries contact me through vaibhavshukla2017c@gmail.com
+howtorun file is added for running it on Heroku Platform. Feel Free to Contribute. For any queries contact me through shashikantkaushik4@gmail.com
 
 
 ### Search Page
