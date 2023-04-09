@@ -36,13 +36,13 @@ howtorun file is added for running it on Heroku Platform. Feel Free to Contribut
 ***In order to clone the project via HTTPS, run this command:***
 
 ```
-$>gh repo clone shashikantkaushik/Home_Service_app
+$>gh repo clone shashikantkaushik/flipkart_review_scrapper_DS
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
-$> git@github.com:shashikantkaushik/Home_Service_app.git
+$> git@github.com:shashikantkaushik/flipkart_review_scrapper_DS.git
 ```
 
 **Install dependencies**
