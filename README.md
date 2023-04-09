@@ -12,9 +12,69 @@ Requirement.txt will help you to import the correct version of libraries used in
 howtorun file is added for running it on Heroku Platform. Feel Free to Contribute. For any queries contact me through shashikantkaushik4@gmail.com
 
 
+<br>
+
+## 🚀 Preview
+
 ### Search Page
 ![alt text](https://github.com/lksh97/Flipkart-Review-Scrapper/blob/main/Flipkart/Screenshot%202021-02-15%20at%206.03.19%20PM.png)
 
 
 ### Fetched Result
 ![alt text](https://github.com/lksh97/Flipkart-Review-Scrapper/blob/main/Flipkart/imgonline-com-ua-twotoone-OtX2x8pOdcw.jpg)
+
+
+
+
+
+<br>
+
+## :construction_worker: Installation
+
+
+***In order to clone the project via HTTPS, run this command:***
+
+```
+$>gh repo clone shashikantkaushik/Home_Service_app
+```
+
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
+
+```
+$> git@github.com:shashikantkaushik/Home_Service_app.git
+```
+
+**Install dependencies**
+
+```
+$> flutter install
+```
+
+**Start development server**
+
+```
+$> flutter run
+```
+
+<br>
+
+
+## :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the [Homzy](https://github.com/shashikantkaushik/Home_Service_app/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) to find out about the coding standards.
+
+<br>
+
+## :tada: Contributing
+
+Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+
+<br>
+
+## :closed_book: License
+Not Release Yet
+All Rights are Reserved
+
+<br>
+
+##### Made with love by [Shashi Kant](https://github.com/shashikantkaushik) 💜🚀
