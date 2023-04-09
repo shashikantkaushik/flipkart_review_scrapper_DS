@@ -50,7 +50,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 $> git@github.com:shashikantkaushik/flipkart_review_scrapper_DS.git
 ```
 
-To clone and run this app follow the following step-
+## To clone and run this app follow the following step-
 
 ```
 $ git clone https://github.com/shashikantkaushik/flipkart_review_scrapper_DS.git
