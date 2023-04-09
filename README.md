@@ -24,6 +24,11 @@ howtorun file is added for running it on Heroku Platform. Feel Free to Contribut
 ### Fetched Result
 ![alt text](https://github.com/lksh97/Flipkart-Review-Scrapper/blob/main/Flipkart/imgonline-com-ua-twotoone-OtX2x8pOdcw.jpg)
 
+<br>
+
+The search page allows you to search for a specific item. The fetched result shows the extracted reviews and their corresponding images.
+
+
 
 
 
