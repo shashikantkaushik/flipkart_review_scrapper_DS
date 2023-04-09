@@ -111,7 +111,8 @@ Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaus
 <br>
 
 ## :closed_book: License
-Open Source
+This project is open source and available under the [MIT License](https://github.com/shashikantkaushik/flipkart_review_scrapper_DS/blob/main/LICENSE).
+
 
 <br>
 
