@@ -91,6 +91,10 @@ Once the server is up and running, you can access the app by visiting http://loc
 
 To search for a specific item, simply enter the item name in the search bar and click the "Search" button. The app will then scrape the reviews and images for that item from Flipkart.com and display them on the results page.
 
+<br>
+
+## Why Use Flipkart-Review-Scrapper
+Flipkart-Review-Scrapper is a useful tool for anyone who wants to perform sentiment analysis on product reviews from Flipkart.com. By extracting the reviews and their corresponding images, you can gain insights into what customers are saying about a particular product and how they feel about it.
 
 <br>
 
