@@ -50,6 +50,30 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 $> git@github.com:shashikantkaushik/flipkart_review_scrapper_DS.git
 ```
 
+To clone and run this app follow the following step-
+
+```
+$ git clone https://github.com/shashikantkaushik/flipkart_review_scrapper_DS.git
+
+```
+Install the required libraries by running the following command:
+
+```
+$ pip install -r requirements.txt
+
+```
+Start the Flask server
+
+```
+$ python FlaskApp.py
+
+```
+
+Note: You will also need to have MongoDB installed on your machine in order to clone.
+
+<br>
+
+
 **Install dependencies**
 
 ```
