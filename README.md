@@ -56,20 +56,20 @@ $> git@github.com:shashikantkaushik/flipkart_review_scrapper_DS.git
 $ git clone https://github.com/shashikantkaushik/flipkart_review_scrapper_DS.git
 
 ```
-***Install the required libraries by running the following command:
+Install the required libraries by running the following command:
 
 ```
 $ pip install -r requirements.txt
 
 ```
-***Start the Flask server
+Start the Flask server
 
 ```
 $ python FlaskApp.py
 
 ```
 
-***Note: You will also need to have MongoDB installed on your machine in order to clone.
+Note: You will also need to have MongoDB installed on your machine in order to clone.
 
 <br>
 
@@ -88,6 +88,14 @@ $> flutter run
 
 <br>
 
+## How To Use 
+
+Once the server is up and running, you can access the app by visiting http://localhost:5000 in your web browser.
+
+To search for a specific item, simply enter the item name in the search bar and click the "Search" button. The app will then scrape the reviews and images for that item from Flipkart.com and display them on the results page.
+
+
+<br>
 
 ## :bug: Issues
 
